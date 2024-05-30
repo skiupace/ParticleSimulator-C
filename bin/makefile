@@ -1,2 +1,2 @@
 all:
-	gcc -o particle_simulator ../src/main.c -lSDL2 -lGLEW -lGL -lm && ./particle_simulator && rm -f particle_simulator
+	gcc -o particle_simulator ../src/main.c -lSDL2 -lGLEW -lGL -lm && ./particle_simulator
