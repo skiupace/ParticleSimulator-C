@@ -1,4 +1,4 @@
-### Simple "Particle Engine" made in C using :
+### Simple "Particle Simulation Engine" made in C using :
 - SDL2 Library.
 - OpenGL Library.
 
