@@ -5,8 +5,8 @@
 #include <math.h>
 
 #include "../headers/pre_processors.h"
-#include "../headers/structs/camera_struct.h"
-#include "../headers/structs/particle_struct.h"
+#include "../headers/structs/camera.h"
+#include "../headers/structs/particle.h"
 
 Particle particles[NUM_PARTICLES];
 Camera camera = {0, 0, 120, 0, 0};
